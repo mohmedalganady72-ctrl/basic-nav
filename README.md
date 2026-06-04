@@ -110,6 +110,5 @@ flutter run
 <p align="center"><img width="300"  alt="hm2" src="https://github.com/user-attachments/assets/b0a97234-ac0f-423b-b3c6-be1ded5394c7" />
 <img width="300"  alt="detail" src="https://github.com/user-attachments/assets/30beb113-512b-4622-824a-1f95198d2542" /></p>
 <p align="center"><img width="300"  alt="cart" src="https://github.com/user-attachments/assets/5b894cfd-c37b-4ef3-98b5-82c6c532fd11" />
-
 <img width="300"  alt="prfil" src="https://github.com/user-attachments/assets/7eb5303e-529a-4c47-a9f9-35debbdbc869" />   </p>
 
