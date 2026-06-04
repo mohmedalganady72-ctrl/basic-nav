@@ -101,12 +101,15 @@ flutter run
 2. **البيانات وهمية** - كلها في `fake_data.dart` وتُمرر بين الصفحات
 3. **تمرير البيانات** - نستخدم constructor parameters (مثل `ProductDetailScreen(product: product)`)
 4. **dispose()** - مهم جداً لتنظيف الـ controllers ومنع تسريب الذاكرة
+
 ##💡 المخرجات
+
 
 <p align="center"><img width="300"  alt="login" src="https://github.com/user-attachments/assets/637669f3-c1c2-4dcb-8446-ec7cc19fbba9" />
 <img width="300"  alt="hm" src="https://github.com/user-attachments/assets/082bcf5b-5720-45b3-a01b-80d508f643eb" /></p>
 <p align="center"><img width="300"  alt="hm2" src="https://github.com/user-attachments/assets/b0a97234-ac0f-423b-b3c6-be1ded5394c7" />
 <img width="300"  alt="detail" src="https://github.com/user-attachments/assets/30beb113-512b-4622-824a-1f95198d2542" /></p>
-<p align="center"><img width="300"  alt="cart" src="https://github.com/user-attachments/assets/5b894cfd-c37b-4ef3-98b5-82c6c532fd11" /></p>
+<p align="center"><img width="300"  alt="cart" src="https://github.com/user-attachments/assets/5b894cfd-c37b-4ef3-98b5-82c6c532fd11" />
 
+<img width="300"  alt="prfil" src="https://github.com/user-attachments/assets/7eb5303e-529a-4c47-a9f9-35debbdbc869" />   </p>
 
